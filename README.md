@@ -1,0 +1,1 @@
+# -AgriSafe-Rot-Spotter-A-Multi-Modal-Edge-AI-System-for-Early-Detection-of-Post-Harvest-Spoilage-
