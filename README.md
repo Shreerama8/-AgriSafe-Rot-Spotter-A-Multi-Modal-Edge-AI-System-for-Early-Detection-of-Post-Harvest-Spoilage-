@@ -58,23 +58,6 @@ Receiver Node (ESP32)
 * GitHub
 * Embedded C++
 
----
-
-## 📂 Project Structure
-
-```
-AgriSafe/
- ├── sender_ai_node/
- │    └── agrisafe_camera.ino
- ├── receiver_dashboard/
- │    └── receiver.ino
- ├── lcd_monitor/
- │    └── air_quality_monitor.ino
- ├── images/
- └── README.md
-```
-
----
 
 ## ⚙️ How It Works
 
