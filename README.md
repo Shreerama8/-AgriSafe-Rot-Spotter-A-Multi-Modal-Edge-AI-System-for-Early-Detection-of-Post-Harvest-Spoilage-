@@ -14,6 +14,9 @@ The system uses **ESP32-CAM + Sensors + Edge AI** to monitor temperature, humidi
 
 
 <img width="673" height="537" alt="image" src="https://github.com/user-attachments/assets/4d7a1eb1-be74-47cf-bfd0-01cf32b60ea0" />
+<img width="940" height="715" alt="image" src="https://github.com/user-attachments/assets/105db42f-e378-453a-9a43-e8922c4e03b3" />
+
+<img width="940" height="788" alt="image" src="https://github.com/user-attachments/assets/55226a85-1048-4b62-86f6-0e9c24b660d5" />
 
 
 
