@@ -1,3 +1,12 @@
+
+![WhatsApp Image 2026-02-15 at 11 30 48 PM](https://github.com/user-attachments/assets/cb3a254f-d530-4731-a82d-b3498ddfd97e)
+
+
+
+
+
+
+
 # -AgriSafe-Rot-Spotter-A-Multi-Modal-Edge-AI-System-for-Early-Detection-of-Post-Harvest-Spoilage-
 
 
