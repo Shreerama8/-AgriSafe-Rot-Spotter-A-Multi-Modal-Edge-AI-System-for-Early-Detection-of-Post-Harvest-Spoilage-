@@ -9,6 +9,14 @@ The system uses **ESP32-CAM + Sensors + Edge AI** to monitor temperature, humidi
 
 ---
 
+
+
+
+
+<img width="673" height="537" alt="image" src="https://github.com/user-attachments/assets/4d7a1eb1-be74-47cf-bfd0-01cf32b60ea0" />
+
+
+
 ## 🚀 Features
 
 * 🌡 Temperature Monitoring (DHT11)
