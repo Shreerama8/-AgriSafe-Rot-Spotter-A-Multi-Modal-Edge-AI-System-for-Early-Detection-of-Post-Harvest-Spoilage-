@@ -11,7 +11,6 @@
 //
 // If you set HOSTNAME and your router supports mDNS, you can access
 // the camera at http://{HOSTNAME}.local
-
 #define WIFI_SSID "SSID"
 #define WIFI_PASS "PASSWORD"
 #define HOSTNAME "esp32cam"
@@ -62,3 +61,4 @@ void setup() {
 void loop() {
     // server runs in a separate thread, no need to do anything here
 }
+
